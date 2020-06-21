@@ -6,4 +6,4 @@ A helper application for Beat Saber.
 
 This iOS application is used to determine how well you need to do on a song to get the amount of PP you ask for.
 
-(TODO: Link)
+[App Store](https://apps.apple.com/us/app/id1518160074)
